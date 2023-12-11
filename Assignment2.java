@@ -29,7 +29,7 @@ public class Assignment2
            
         }
         
-        System.out.printf("Sum Of The Sreries :%.2f" , sum);
+        System.out.printf("CosX:%.2f" , sum);
 
     }
 }
