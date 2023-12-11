@@ -30,7 +30,7 @@ public class Assignment1
            
         }
         
-        System.out.printf("Sum Of The Sreries :%.2f" , sum);
+        System.out.printf("SinX :%.2f" , sum);
 
     }
 }
